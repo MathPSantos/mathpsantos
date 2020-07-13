@@ -1,6 +1,8 @@
 ### Hi there 💭
 
-I'm Matheus Santos, I'm 17 years old and my first contact with programming was through my robotics team. At there I realized that we can change the world through technology and, because of that, nowadays I create solutions with the objective of improving and facilitating people's lives, besides creating opportunities through it! I consider myself a front end developer, designer and technology enthusiast, always following my values and with the intention of learning new things.
+I'm Matheus Santos, I'm 17 years old and my first contact with programming was through my robotics team 🤖. At there I realized that we can change the world through technology and, because of that, nowadays I create solutions with the objective of improving and facilitating people's lives, besides creating opportunities through it!👨🏿‍💻
+
+I consider myself a front end developer, designer and technology enthusiast, always following my values and with the intention of learning new things.😁
 
 #### 💬 See my work at: 
   - [LinkedIn](https://www.linkedin.com/in/mathpsantos/)
