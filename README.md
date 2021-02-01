@@ -7,7 +7,6 @@ I consider myself a front end developer, designer and technology enthusiast, alw
 #### 💬 See my work at: 
   - [LinkedIn](https://www.linkedin.com/in/mathpsantos/)
   - [Behance](https://www.behance.net/matheussantos46)
-  - [DEV.to](https://dev.to/mathpsantos)
   
 <!--
 **MathPSantos/mathpsantos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
