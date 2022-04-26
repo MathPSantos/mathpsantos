@@ -7,4 +7,5 @@ Since I was little, I have been in contact with systems and technology because o
 I am currently a Frontend Developer at Infosys, working on the planning, development and maintenance of new features in Braskem's management platform, together with an incredible team.💻
 
 Some links: 
+
 ⇒ [LinkedIn](https://www.linkedin.com/in/mathpsantos/)
