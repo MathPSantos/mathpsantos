@@ -1,13 +1,6 @@
-### Hi there 💭
+Frontend developer with 3 years of experience, specialized in Typescript and ReactJS. Working on projects for large companies such as XP Investimentos, GUIDE, Ultracar and Braskem. I'm interested in scalability, architecture, development best practices and TDD.
 
-I'm always seeking for having new ideas and developing solutions that make a social impact.😁
-
-Since I was little, I have been in contact with systems and technology because of my father, but my first line of code was made in a robotics competition at my school, in the same place where later I understand how technology can transform the lives of underprivileged people, if used correctly.🌳
-
-I am currently a Frontend Developer at Infosys, working on the planning, development and maintenance of new features in Braskem's management platform, together with an incredible team.💻
-
-Techs: Javascript, Typescript, React, Next.js, Angular, HTML, CSS/SASS/LESS, GraphQL, Node.js, Express, React Native. 🧑🏾‍💻
+Techs: Javascript (ES6), Typescript, ReactJS, Next.js, TailwindCSS, GraphQL, Jest, SCRUM, Node.js, Docker, AWS, Figma. 🧑🏾‍💻
 
 Some links: 
 - [LinkedIn](https://www.linkedin.com/in/mathpsantos/)
-- [Portfolio](https://math-dev.vercel.app/)
